@@ -21,8 +21,8 @@ Hello, I'm El Houssaine Bakchich, a passionate Full Stack Developer exploring Sa
 
 ## Connect with Me
 
-- LinkedIn: [Your LinkedIn profile](https://www.linkedin.com/in/el-houssaine-bakchich?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- Twitter: [Your Twitter handle](https://x.com/ebakch)
+- LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/el-houssaine-bakchich?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Twitter: [Twitter handle](https://x.com/ebakch)
 
 ## Contributions
 
